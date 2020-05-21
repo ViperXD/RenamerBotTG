@@ -7,3 +7,6 @@ Pillow
 https://github.com/pyrogram/pyrogram/archive/asyncio.zip
 requests
 tgcrypto
+sqlalchemy
+psycopg2-binary
+feedparser
