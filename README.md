@@ -6,7 +6,9 @@ An Open Source Rename Telegram RoBot
 **My Feature**:
 
 👉 Rename any Telegram Files with Permanent Thumbnail Support
+
 👉 Generate Screenshots 
+
 👉 More Coming Soon.....💖😊
 
 ### Installation
