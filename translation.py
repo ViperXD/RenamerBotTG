@@ -29,12 +29,10 @@ SEE /help For My Features"""
 ➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/joinchat/AAAAAES6ylIS7Zs1iw6SHQ">ᴄᴘʀ sᴛʀᴇᴀᴍɪɴɢ</a>
 
 ..𝓒𝓲𝓷𝓮𝓶𝓪 𝓟𝓻𝓪𝓷𝓽𝓱𝓪𝓷𝓶𝓪𝓻."""
-   NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found,SED🤒"
-   USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-   HELP_USER = """ <b>How To Use Me<b>
+   HELP_USER = """ <b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
-    <b>FEATURES<b>
+    <b>FEATURES</b>
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
     ➡ FOR Downloading Files At Highspeed Join @PUBLIC_LEECH_2"""
