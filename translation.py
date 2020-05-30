@@ -18,7 +18,17 @@ SEE /help For My Features"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
-    CUSTOM_CAPTION_UL_FILE = "Join For Downloading Files @PUBLIC_LEECH_2"
+    CUSTOM_CAPTION_UL_FILE = """✯ ━━━━━━ ✧ ━━━━━━ ✯
+➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/CPRLATESTMOVIES">ᴄᴘʀ ᴍᴏᴠɪᴇs</a>
+➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/joinchat/AAAAAE5zacv7WFZypKR-vA">ᴄᴘʀ ᴛᴀᴍɪʟ</a>
+➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/joinchat/AAAAAEVY-dDxRxV-ue8lwA">ᴄᴘʀ ʜɪɴᴅɪ</a>
+➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/joinchat/AAAAAFEfc6lWc3Blve9djQ">ᴄᴘʀ ᴍᴀʟᴀʏᴀʟᴀᴍ</a> 
+➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/CPR_HEVC">ᴄᴘʀ ʜᴇᴠᴄ</a>
+➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/joinchat/AAAAAE2BTH_3HSMkRhpXew">ᴄᴘʀ ᴛᴠ sᴇʀɪᴇs</a>
+➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/joinchat/AAAAAEsDIRVFK1YL_1u-tQ">ᴍᴏʙɪʟᴇ ᴍᴏᴠɪᴇs</a>
+➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/joinchat/AAAAAES6ylIS7Zs1iw6SHQ">ᴄᴘʀ sᴛʀᴇᴀᴍɪɴɢ</a>
+
+..𝓒𝓲𝓷𝓮𝓶𝓪 𝓟𝓻𝓪𝓷𝓽𝓱𝓪𝓷𝓶𝓪𝓻."""
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found,SED🤒"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """ <b>How To Use Me<b>
