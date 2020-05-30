@@ -25,8 +25,8 @@ SEE /help For My Features"""
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
     <b>FEATURES<b>
-    ➡Rename Telegram File With Custom Thumbnail
-    ➡Convert Streamable File(Video) To File
+    ➡Rename Telegram File With Custom Thumbnail.
+    ➡Convert Streamable File(Video) To File.
     ➡ FOR Downloading Files At Highspeed Join @PUBLIC_LEECH_2"""
-     REPLY_TO_DOC_FOR_RENAME_FILE = "What Are You Trying Actually? Reply It"
+     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
      IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
