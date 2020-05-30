@@ -29,12 +29,12 @@ SEE /help For My Features"""
 ➾ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/joinchat/AAAAAES6ylIS7Zs1iw6SHQ">ᴄᴘʀ sᴛʀᴇᴀᴍɪɴɢ</a>
 
 ..𝓒𝓲𝓷𝓮𝓶𝓪 𝓟𝓻𝓪𝓷𝓽𝓱𝓪𝓷𝓶𝓪𝓻."""
-   HELP_USER = """<b>How To Use Me</b>
+    HELP_USER = """How To Use Me
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
-    <b>FEATURES</b>
+    FEATURES
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
     ➡ FOR Downloading Files At Highspeed Join @PUBLIC_LEECH_2"""
-     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
-     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
+    REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
+    IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
