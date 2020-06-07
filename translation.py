@@ -25,6 +25,6 @@ SEE /help For My Features"""
     2. Reply to that message to /rename NEW NAME.EXTENSION
     FEATURES
     ➡Rename Telegram File With Custom Thumbnail.
-    ➡Convert Streamable File(Video) To File.""
+    ➡Convert Streamable File(Video) To File."""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
