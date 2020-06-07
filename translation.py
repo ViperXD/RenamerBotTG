@@ -18,13 +18,13 @@ SEE /help For My Features"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
-    CUSTOM_CAPTION_UL_FILE = """✯ ━━━━━━ ✧ ━━━━━━ ✯
+    CUSTOM_CAPTION_UL_FILE = """✯ ━━━━━━ ✧ ━━━━━━ ✯""
     HELP_USER = """How To Use Me
     
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
     FEATURES
     ➡Rename Telegram File With Custom Thumbnail.
-    ➡Convert Streamable File(Video) To File.
+    ➡Convert Streamable File(Video) To File.""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
