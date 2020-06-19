@@ -18,7 +18,7 @@ SEE /help For My Features"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
-    CUSTOM_CAPTION_UL_FILE = """@PUBLIC_LEECH_2"""
+    CUSTOM_CAPTION_UL_FILE = """@CPRLINKS"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
@@ -28,3 +28,7 @@ SEE /help For My Features"""
     ➡ FOR Downloading Files At Highspeed Join @PUBLIC_LEECH_2"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
+    REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
+    CANCEL_STR = "Process Cancelled"
+    REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
+    REPLY_TO_DOC_OR_LINK_FOR_RARX_SRT = "Reply to a Telegram media (MKV), to extract embedded streams"
