@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT Edited By This <a href="https://tx.me/AID_3N">MAN</a>
+    START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://tx.me/AID_3N)
               🎈 @DX_BOTZ 🎈
 <b>Please send me any Telegram file and reply /rename New Name.extn</b>
 SEE /help For My Features"""
@@ -19,24 +19,21 @@ SEE /help For My Features"""
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
     CUSTOM_CAPTION_UL_FILE = """
- ⊱ ────── {⋅. ✯ .⋅} ────── ⊰
- 𝘊𝘏𝘈𝘕𝘕𝘌𝘓➡️ @CPR_Malayalam     
- 𝘊𝘏𝘈𝘕𝘕𝘌𝘓➡️ @CPR_Tamil                 
- 𝘊𝘏𝘈𝘕𝘕𝘌𝘓➡️ @CPR_HINDI               
- 𝘊𝘏𝘈𝘕𝘕𝘌𝘓➡️ @CPR_HEVC
- 𝘊𝘏𝘈𝘕𝘕𝘌𝘓➡️ @CPR_STREAMING
- 𝘊𝘏𝘈𝘕𝘕𝘌𝘓➡️ @NETFLIX_TVSERIES
- 𝘊𝘏𝘈𝘕𝘕𝘌𝘓➡️ @CPR_DVDINFO
- 𝘊𝘏𝘈𝘕𝘕𝘌𝘓➡️ @CPRMOBILEMOVIES
- ⊱ ────── {⋅. ✯ .⋅} ────── ⊰
- քʀօʋɨɖɛɖ ɮʏ @CPRLINKS աɨȶɦ ❤️"""
+⊱ ──────  𝗖𝗣𝗥 ────── ⊰
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_CINEMAS
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_Malayalam
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_HINDI
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_Tamil
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_HEVC
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_DVDINFO
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@NETFLIX_TVSERIES"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
     FEATURES
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
-    ➡ FOR Downloading Files At Highspeed Join @PUBLIC_LEECH_2"""
+    ➡ FOR Downloading Files At Highspeed Join @TELEGRAM"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
     IFLONG_FILE_NAME = """Cheriya Name Aaakadeey"""
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
