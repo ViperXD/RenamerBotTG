@@ -29,7 +29,7 @@ class Config(object):
     # https://t.me/hevcbay/951
     OUO_IO_API_KEY = ""
     # maximum message length in Telegram
-    MAX_MESSAGE_LENGTH = 5000
+    MAX_MESSAGE_LENGTH = 4096
     # set timeout for subprocess
     PROCESS_MAX_TIMEOUT = 3600
     # watermark file
