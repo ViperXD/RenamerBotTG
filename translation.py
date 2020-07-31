@@ -7,26 +7,27 @@ SEE /help For My Features"""
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
     UPGRADE_TEXT = "CONTACT @AID_3N"
-    DOWNLOAD_START = "Downloading The File"
-    UPLOAD_START = "Uploading........."
+    DOWNLOAD_START = "Taking The File To My Server"
+    UPLOAD_START = "Moving The File To Telegram"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use @PUBLIC_LEECH_2"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Send Next File Please**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @AID_3N"
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @AID_3N"
-    SAVED_CUSTOM_THUMB_NAIL = "Thumbnail Set Aaayii"
+    SAVED_CUSTOM_THUMB_NAIL = "Thumbnail Set 😂😂😏"
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
     CUSTOM_CAPTION_UL_FILE = """
+
 ⊱ ──────  𝗖𝗣𝗥 ────── ⊰
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_CINEMAS
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_Malayalam
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_HINDI
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_Tamil
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_HEVC
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@CPR_DVDINFO
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@NETFLIX_TVSERIES"""
+𝙼𝚕𝚢𝚕𝚖 ➣@CPR_Malayalam
+𝙰𝚕𝚕   ➣@CPRLINKS
+𝚂𝚎𝚛𝚒𝚎𝚜➣@CPR_TV_SERIES
+𝙷𝚒𝚗𝚍𝚒 ➣@CPR_HINDI
+𝚃𝚊𝚖𝚒𝚕 ➣@CPR_Tamil
+𝙷𝙴𝚅𝙲  ➣@CPR_HEVC
+𝙸𝚗𝚏𝚘  ➣@CPR_DVDINFO"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
