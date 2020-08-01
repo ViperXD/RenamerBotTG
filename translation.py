@@ -5,10 +5,10 @@ class Translation(object):
 SEE /help For My Features"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
-    ABS_TEXT = "What Are You Trying To Do,Mate?"
+    ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned!"
     UPGRADE_TEXT = "CONTACT @AID_3N"
     DOWNLOAD_START = "Taking The File To My Server"
-    UPLOAD_START = ""
+    UPLOAD_START = " "
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use @PUBLIC_LEECH_2"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Send Next File Please**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
