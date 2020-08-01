@@ -18,7 +18,14 @@ SEE /help For My Features"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
-    CUSTOM_CAPTION_UL_FILE = "Idh Valladhum Kittuoo"
+    CUSTOM_CAPTION_UL_FILE = """⊱ ──────  𝗖𝗣𝗥 ────── ⊰
+𝙼𝚕𝚢𝚕𝚖   ➣@CPR_Malayalam
+𝙰𝚕𝚕        ➣@CPRLINKS
+𝚂𝚎𝚛𝚒𝚎𝚜 ➣@CPR_TV_SERIES
+𝙷𝚒𝚗𝚍𝚒   ➣@CPR_HINDI
+𝚃𝚊𝚖𝚒𝚕   ➣@CPR_Tamil
+𝙷𝙴𝚅𝙲      ➣@CPR_HEVC
+𝙸𝚗𝚏𝚘      ➣@CPR_DVDINFO"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
