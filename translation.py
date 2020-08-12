@@ -1,13 +1,13 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://tx.me/AID_3N)
+    START_TEXT = """ Simple Telegram File Renaming BOT
               🎈 @DX_BOTZ 🎈
-<b>Please send me any Telegram file and reply /rename New Name.extn</b>
+<b>Please send me any Telegram file and reply /rename If  New Name.extn</b>
 SEE /help For My Features"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
-    ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned!"
+    ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned! Now Get The Fukc Out😃"
     UPGRADE_TEXT = "CONTACT @AID_3N"
-    DOWNLOAD_START = "Downloading😊"
+    DOWNLOAD_START = "Downloading⚡"
     UPLOAD_START = "Uploading✨"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use @PUBLIC_LEECH_2"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Next File **"
@@ -18,17 +18,10 @@ SEE /help For My Features"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Pooyee🤣🤣"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
-    CUSTOM_CAPTION_UL_FILE = """⊱ ──────  𝗖𝗣𝗥 ────── ⊰
-𝙼𝚕𝚢𝚕𝚖   ➣@CPR_Malayalam
-𝙰𝚕𝚕        ➣@CPRLINKS
-𝚂𝚎𝚛𝚒𝚎𝚜 ➣@CPR_TV_SERIES
-𝙷𝚒𝚗𝚍𝚒   ➣@CPR_HINDI
-𝚃𝚊𝚖𝚒𝚕   ➣@CPR_Tamil
-𝙷𝙴𝚅𝙲      ➣@CPR_HEVC
-𝙸𝚗𝚏𝚘      ➣@CPR_DVDINFO"""
+    CUSTOM_CAPTION_UL_FILE = """@DX_BOTZ"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
-    2. Reply to that message to /rename NEW NAME.EXTENSION
+    2. Reply to that message to /rename NEW NAME.EXTENSION (If Not Working Then Try /change)
     FEATURES
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
