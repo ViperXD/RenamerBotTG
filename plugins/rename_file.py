@@ -63,7 +63,7 @@ async def rename_doc(bot, update):
             )
             return
         except Exception:
-            await update.reply_text("Something Wrong. Contact my Support Group")
+            await update.reply_text("Oops,I Think You're Already Member,Please Revoke By Leaving The Channel.")
             return
     TRChatBase(update.from_user.id, update.text, "change")
     if (" " in update.text) and (update.reply_to_message is not None):
