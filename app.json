@@ -25,11 +25,16 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from @USETGXBOT",
       "value": ""
     },
+    "UPDATE_CHANNEL": {
+      "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
+      "value": "",
+      "required": false
+    },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from @USETGXBOT",
       "value": ""
     },
     "AUTH_USERS": {
@@ -37,7 +42,7 @@
       "value": ""
     },
     "BANNED_USERS": {
-      "description": "Banned Unwanted members..",
+      "description": "IDs For BOT Abusers⚡",
       "value": "",
       "required": false
     },
