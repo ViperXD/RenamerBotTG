@@ -42,18 +42,22 @@ async def help_user(bot, update):
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
     )
-
 @pyrogram.Client.on_message(pyrogram.Filters.command(["start"]))
-async def start(bot, update):
-    # logger.info(update)
-    TRChatBase(update.from_user.id, update.text, "/start")
-    await bot.send_message(
-        chat_id=update.chat.id,
-        text=Translation.START_TEXT,
-        reply_to_message_id=update.message_id
-    )
-
-
+async def start_user(bot, update):
+  # logger.info(update)
+  TRChatBase(update.from_user.id, update.text, "/start") 
+ if update.from_user.id in Config.BANNED_USERS
+    await update.reply_text("You are B A N N E D 🤣🤣🤣🤣") 
+    return 
+     update_channel = Config.UPDATE_CHANNEL 
+ if update_channel:
+     try: 
+         user = await bot.get_chat_member(update_channel, update.chat.id) 
+ if user.status == "kicked": 
+     await update.reply_text("🤭 Sorry Dude, You are B A N N E D 🤣🤣🤣") 
+     return 
+  except: 
+    pass chat_id = str(update.from_user.id) chat_id, plan_type, expires_at = GetExpiryDate(chat_id) buttons = [[ InlineKeyboardButton(text="MY Dev👨‍🔬", url="https://t.me/Psykid_The_Bot"), InlineKeyboardButton(text="⭕️ Channel ⭕️", url="https://t.me/CrazyBotszgrp") ], [ InlineKeyboardButton('⚙️ Help', callback_data='help_btn') ]] reply_markup = InlineKeyboardMarkup(buttons) await bot.send_message( chat_id=update.chat.id, text=Translation.START_TEXT.format( update.from_user.first_name), reply_markup=reply_markup, disable_web_page_preview=True, reply_to_message_id=update.message_id )
 @pyrogram.Client.on_message(pyrogram.Filters.command(["upgrade"]))
 async def upgrade(bot, update):
     # logger.info(update)
@@ -65,19 +69,3 @@ async def upgrade(bot, update):
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True
     )
-@pyrogram.Client.on_message(pyrogram.Filters.command(["start"]))
-async def start_user(bot, update):
-  # logger.info(update)
-  TRChatBase(update.from_user.id, update.text, "/start") 
- if update.from_user.id in Config.BANNED_USERS
-    await update.reply_text("You are B A N N E D 🤣🤣🤣🤣") 
-               return 
-     update_channel = Config.UPDATE_CHANNEL 
- if update_channel:
-        try: 
-            user = await bot.get_chat_member(update_channel, update.chat.id) 
- if user.status == "kicked": 
-               await update.reply_text("🤭 Sorry Dude, You are B A N N E D 🤣🤣🤣") 
-               return 
-  except: 
-    pass chat_id = str(update.from_user.id) chat_id, plan_type, expires_at = GetExpiryDate(chat_id) buttons = [[ InlineKeyboardButton(text="MY Dev👨‍🔬", url="https://t.me/Psykid_The_Bot"), InlineKeyboardButton(text="⭕️ Channel ⭕️", url="https://t.me/CrazyBotszgrp") ], [ InlineKeyboardButton('⚙️ Help', callback_data='help_btn') ]] reply_markup = InlineKeyboardMarkup(buttons) await bot.send_message( chat_id=update.chat.id, text=Translation.START_TEXT.format( update.from_user.first_name), reply_markup=reply_markup, disable_web_page_preview=True, reply_to_message_id=update.message_id )
