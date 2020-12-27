@@ -60,7 +60,7 @@ async def start_user(bot, update):
          pass 
     chat_id = str(update.from_user.id)
     chat_id, plan_type, expires_at = GetExpiryDate(chat_id) 
-    buttons = [[InlineKeyboardButton(text="MY Dev👨‍🔬", url="https://t.me/pot"), InlineKeyboardButton(text="⭕️ Channel ⭕️", url="https://t.me/teegn")], [InlineKeyboardButton('⚙️ Help', callback_data='help_btn')]] 
+    buttons = [[ InlineKeyboardButton(text="MY Dev👨‍🔬", url="https://t.me/pot"), InlineKeyboardButton(text="⭕️ Channel ⭕️", url="https://t.me/teegn")], [ InlineKeyboardButton('⚙️ Help', callback_data='help_btn')]] 
     reply_markup = InlineKeyboardMarkup(buttons) 
     await bot.send_message(chat_id=update.chat.id, text=Translation.START_TEXT.format(update.from_user.first_name), reply_markup=reply_markup, disable_web_page_preview=True, reply_to_message_id=update.message_id)
 @pyrogram.Client.on_message(pyrogram.Filters.command(["upgrade"]))
