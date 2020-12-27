@@ -66,11 +66,11 @@ async def upgrade(bot, update):
         disable_web_page_preview=True
     )
 @pyrogram.Client.on_message(pyrogram.Filters.command(["start"]))
-async def start_user(bot, update): 
+async def start_user(bot, update):
   # logger.info(update)
   TRChatBase(update.from_user.id, update.text, "/start") 
- if update.from_user.id in Config.BANNED_USERS: 
-               await update.reply_text("You are B A N N E D 🤣🤣🤣🤣") 
+ if update.from_user.id in Config.BANNED_USERS:
+    await update.reply_text("You are B A N N E D 🤣🤣🤣🤣") 
                return 
      update_channel = Config.UPDATE_CHANNEL 
  if update_channel:
