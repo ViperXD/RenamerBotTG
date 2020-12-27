@@ -71,7 +71,7 @@ async def start_user(bot, update):
   TRChatBase(update.from_user.id, update.text, "/start") 
   if update.from_user.id in Config.BANNED_USERS: 
     await update.reply_text("You are B A N N E D 🤣🤣🤣🤣") 
-    return update_channel = Config.UPDATE_CHANNEL if update_channel:
+    return update_channel=Config.UPDATE_CHANNEL if update_channel:
     try: 
     user = await bot.get_chat_member(update_channel, update.chat.id) if user.status == "kicked": 
     await update.reply_text("🤭 Sorry Dude, You are B A N N E D 🤣🤣🤣") 
