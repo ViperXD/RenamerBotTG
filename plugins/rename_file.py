@@ -34,6 +34,7 @@ from PIL import Image
 from database.database import *
 from pyrogram import ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import UserNotParticipant, UserBannedInChannel
+from telegram import ParseMode, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
 
 @pyrogram.Client.on_message(pyrogram.Filters.command(["change"]))
