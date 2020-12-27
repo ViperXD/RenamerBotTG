@@ -69,7 +69,7 @@ async def upgrade(bot, update):
 async def start_user(bot, update):
   # logger.info(update)
   TRChatBase(update.from_user.id, update.text, "/start") 
- if update.from_user.id in Config.BANNED_USERS:
+ if update.from_user.id in Config.BANNED_USERS
     await update.reply_text("You are B A N N E D 🤣🤣🤣🤣") 
                return 
      update_channel = Config.UPDATE_CHANNEL 
