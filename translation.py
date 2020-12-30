@@ -1,8 +1,5 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT
-              
-<b>Please send me any Telegram file and reply /rename New Name.extn</b>
-SEE /help For My Features"""
+    START_TEXT = """ """
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned!"
