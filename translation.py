@@ -1,12 +1,16 @@
 class Translation(object):
-    START_TEXT = """ """
+    START_TEXT = """A Simple File Renamer Bot With Permanent Thumbnail support!💯
+
+Send me any Telegram file and replay to the file /rename new file name.Extension!
+
+You must subscribe our channel in order to use me😇 """
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned!"
     UPGRADE_TEXT = "CONTACT @VkBotsSupportBot"
     DOWNLOAD_START = "Downloading😊"
     UPLOAD_START = "Uploading✨"
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Next File **"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @VkBotsSupportBot"
